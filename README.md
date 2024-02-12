@@ -1,6 +1,6 @@
 # todo_app_bloc
 
-A new Flutter project.
+Flutter Todo App Using Bloc Pattern
 
 ## Getting Started
 
