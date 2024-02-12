@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
 import 'package:hydrated_bloc/hydrated_bloc.dart';
-import 'package:todo_app_bloc/data/todo.dart';
+import 'package:todo_app_bloc/data/models/todo.dart';
 
 part 'todo_event.dart';
 part 'todo_state.dart';

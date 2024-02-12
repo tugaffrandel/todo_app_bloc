@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:todo_app_bloc/bloc/todo_bloc.dart';
-import 'package:todo_app_bloc/data/todo.dart';
-import 'package:todo_app_bloc/widget/add_todo.dart';
-import 'package:todo_app_bloc/widget/todo_tile.dart';
+import 'package:todo_app_bloc/data/models/todo.dart';
+import 'package:todo_app_bloc/presentation/widget/add_todo.dart';
+import 'package:todo_app_bloc/presentation/widget/todo_tile.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
